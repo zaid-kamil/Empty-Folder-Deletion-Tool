@@ -4,7 +4,7 @@
 
 The Empty Folder Deletion Tool is a simple utility program designed to help you identify and remove empty folders within a selected directory. Empty folders can accumulate over time, cluttering your file system, and this tool provides an easy way to maintain a clean and organized directory structure.
 
-![Empty Folder Deletion Tool](images/empty_folder_deletion_tool.png)
+![Empty Folder Deletion Tool](empty_folder_deletion_tool.png)
 
 ## Features
 
@@ -33,7 +33,7 @@ The Empty Folder Deletion Tool is a simple utility program designed to help you 
 - **Efficiency:** Save time by automating the process of identifying and deleting empty folders.
 - **Ease of Use:** The user-friendly graphical interface makes it easy for users of all levels of experience.
 
-![Empty Folder Deletion List](images/empty_folder_deletion_confirmation.png)
+![Empty Folder Deletion List](empty_folder_deletion_confirmation.png)
 
 ## To-Do List
 
