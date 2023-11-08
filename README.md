@@ -35,10 +35,23 @@ The Empty Folder Deletion Tool is a simple utility program designed to help you 
 
 ![Empty Folder Deletion List](images/empty_folder_deletion_confirmation.png)
 
+## To-Do List
+
+Here's a list of features and improvements that we plan to add to the Empty Folder Deletion Tool:
+
+- [ ] Implement a progress bar to track the deletion process.
+- [ ] Add the ability to specify file extensions for deletion (e.g., delete empty folders only if they contain specific file types).
+- [ ] Improve error handling and provide more informative error messages.
+- [ ] Allow users to set a maximum folder depth for scanning (avoid deep nested folders).
+- [ ] Create a log file to keep a record of deleted folders and any errors.
+- [ ] Implement an option to move deleted folders to a backup directory instead of permanent deletion.
+
+If you're interested in contributing to the project or have suggestions for additional features, feel free to open an issue or submit a pull request.
+
 ## Contributions
 
 Contributions to this tool are welcome. If you have suggestions or want to enhance its functionality, feel free to submit a pull request.
 
 ## License
 
-This tool is distributed under the GPL License.
+This tool is distributed under the [GPL License](https://www.gnu.org/licenses/gpl-3.0.txt).
